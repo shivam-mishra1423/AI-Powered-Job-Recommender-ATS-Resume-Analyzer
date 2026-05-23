@@ -1,0 +1,26 @@
+John Doe — Data Scientist
+Email: john@example.com | Bangalore, India
+
+SUMMARY
+Data Scientist with 3 years of experience building ML and NLP systems in production.
+Skilled in Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, SQL and AWS.
+
+SKILLS
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLP, Transformers, BERT,
+Machine Learning, Deep Learning, SQL, PostgreSQL, AWS, Docker, FastAPI, Git, Linux.
+
+EXPERIENCE
+Data Scientist — XYZ Analytics (2022 - Present)
+- Built a recommendation system using collaborative filtering, increasing CTR by 18%.
+- Designed an NLP pipeline using BERT for resume parsing and skill extraction.
+- Deployed ML models on AWS Sagemaker via Docker + FastAPI.
+
+Junior Data Analyst — ABC Corp (2021 - 2022)
+- Built dashboards in Power BI and SQL for sales analytics.
+
+EDUCATION
+B.Tech in Computer Science, IIT (2017 - 2021)
+
+PROJECTS
+- Resume Shortlisting System using TF-IDF + Cosine Similarity.
+- Sentiment Analysis on Twitter data using HuggingFace Transformers.
